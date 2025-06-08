@@ -9,4 +9,4 @@ GitHub Pages を使って再度静的サイトを公開しています😊
 - Twitter: [@your_twitter](https://twitter.com/your_twitter)
 - GitHub: [your_username](https://github.com/your_username)
 
-やっほー
+やっほー!
